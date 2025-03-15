@@ -1,0 +1,7 @@
+This directory will contain the Lift XP logo.
+Please replace this placeholder with a proper logo image file (e.g., logo.png, logo.svg).
+
+Recommended logo specifications:
+- Format: PNG or SVG (preferred for scalability)
+- Size: At least 200x200px
+- Background: Transparent 
