@@ -8,12 +8,18 @@ This is the official website for the Lift XP fitness tracking app. It provides i
 - Color scheme matching the Lift XP app
 - Support contact information
 - Mobile-responsive layout
+- Direct link to download the app from the App Store
 
 ## Color Scheme
 
 - Primary: #3b82f6 (blue)
 - Background: #121212 (dark gray/black)
 - Card: #1e1e1e (slightly lighter dark gray)
+
+## App Store
+
+Lift XP is now available on the App Store! Download it here:
+[https://apps.apple.com/us/app/lift-xp/id6743067633](https://apps.apple.com/us/app/lift-xp/id6743067633)
 
 ## Development
 
